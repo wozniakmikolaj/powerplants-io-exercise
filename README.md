@@ -1,4 +1,4 @@
-## Powerplants - coursework
+## Powerplants - software engineering coursework
 
 ### If You're a recruiter, ignore this.
 
